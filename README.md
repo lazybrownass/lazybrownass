@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me
  Hey, I'm Awab👋<br><br>I'm currently building a 3D portfolio site with **Three.js** — it's a fun mix of design and dev.  <br>Always down to collab on cool **Three.js** projects or anything creative on the web.  <br>Also diving into **machine learning** and leveling up my **Python** skills.  <br>Trying to connect the dots between visuals and intelligence — still figuring it all out, but enjoying the ride.<br><br>Feel free to reach out if you're into 3D stuff, ML, or just wanna geek out over code.  <br>⚡ Fun fact: I believe websites should be more than just scrollable—they should be an experience.
 
 
